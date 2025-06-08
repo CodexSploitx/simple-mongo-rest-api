@@ -28,7 +28,7 @@ pnpm install  # or npm install
 Create a `.env` file:
 
 ```env
-MONGO_URI=mongodb://localhost:27017
+MONGODB_URI=mongodb://localhost:27017
 AUTH_TOKEN=your_secret_token # Generate at https://it-tools.tech/token-generator
 PORT=4000
 ```
